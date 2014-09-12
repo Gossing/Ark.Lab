@@ -1,4 +1,17 @@
-ark-group
+Ark.Lab
 =========
 
-group management
+Application
+- paybook : persnal money managent for HTML based
+
+
+2014/09/12(Fri)
+- 개인 가계부 프로그램
+- 계좌별 입출금 내역 관리
+- 은행별 계좌 관리
+- 체크카드는 계좌에 필수 연결
+- 신용카드는 사용기간에 따른 결제예정금액 계산, 할부계산(이자율), 결제일
+- 금융상품별 관리(펀드, 기타 상품...)
+- 자동이체 내역 관리
+- 입출금내역 가테고리 구분
+
